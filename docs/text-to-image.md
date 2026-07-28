@@ -22,6 +22,7 @@
 ### Diffusion Models
 - **Stable Diffusion** - Latent diffusion approach
 - **DALL-E** - OpenAI's text-to-image model
+- **[GPT Image 2](https://gptimage2.asia/)** - OpenAI-style image generation and editing workflow for marketing visuals, e-commerce product images, social media assets, and brand creatives
 - **Midjourney** - High-quality artistic generation
 - **Imagen** - Google's text-to-image system
 
